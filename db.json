@@ -1,802 +1,802 @@
-  {
-    "allgames": [
-      {
-        "id": "1",
-        "title": "Cyberpunk 2077",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
-        "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.2
-      },
-      {
-        "id": "2",
-        "title": "God of War",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
-        "description": "Kratos and his son Atreus journey through brutal Norse realms, facing gods and monsters in an epic tale of fatherhood and fate.",
-        "price": "39.99",
-        "originalPrice": "49.99",
-        "rating": 4.9
-      },
-      {
-        "id": "3",
-        "title": "Marvel's Spider-Man",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
-        "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
-        "price": "49.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "4",
-        "title": "GTA V",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
-        "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
-        "price": "14.99",
-        "originalPrice": "29.99",
-        "rating": 4.7
-      },
-      {
-        "id": "5",
-        "title": "Elden Ring",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
-        "description": "Explore the shattered Lands Between, forging your own legend across a breathtaking open world filled with ancient mystery and brutal combat.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.9
-      },
-      {
-        "id": "6",
-        "title": "Call of Duty: Modern Warfare III",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg",
-        "description": "Drop into fast-paced multiplayer battles and a gripping campaign as elite soldiers face a global threat like never before.",
-        "price": "49.99",
-        "originalPrice": "69.99",
-        "rating": 4.1
-      },
-      {
-        "id": "7",
-        "title": "EA Sports FC 24",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/capsule_616x353.jpg",
-        "description": "The world's most popular football simulation returns with HyperMotionV technology, lifelike player movement, and the biggest club roster ever.",
-        "price": "39.99",
-        "originalPrice": "69.99",
-        "rating": 4
-      },
-      {
-        "id": "8",
-        "title": "Assassin's Creed Valhalla",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
-        "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
-        "price": "19.99",
-        "originalPrice": "59.99",
-        "rating": 4.3
-      },
-      {
-        "id": "9",
-        "title": "Red Dead Redemption 2",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg",
-        "description": "Live the outlaw life as Arthur Morgan rides with the Van der Linde gang in the dying days of the American frontier.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.9
-      },
-      {
-        "id": "10",
-        "title": "Hogwarts Legacy",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/capsule_616x353.jpg",
-        "description": "Attend Hogwarts in the 1800s, master spells, uncover a hidden secret, and shape your destiny in an immersive open-world wizarding adventure.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.6
-      },
-      {
-        "id": "11",
-        "title": "Fortnite",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1493710/capsule_616x353.jpg",
-        "description": "Drop onto the island, gather resources, build structures, and be the last one standing in this ever-evolving battle royale phenomenon.",
-        "price": "0.00",
-        "originalPrice": "0.00",
-        "rating": 4.2
-      },
-      {
-        "id": "12",
-        "title": "PUBG: Battlegrounds",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
-        "description": "Parachute onto a massive map, scavenge for weapons and gear, and outlast 99 other players in the original battle royale experience.",
-        "price": "0.00",
-        "originalPrice": "29.99",
-        "rating": 4
-      },
-      {
-        "id": "13",
-        "title": "Valorant",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
-        "description": "A 5v5 tactical shooter where precise gunplay meets unique agent abilities — strategy, teamwork, and split-second decisions determine victory.",
-        "price": "0.00",
-        "originalPrice": "0.00",
-        "rating": 4.5
-      },
-      {
-        "id": "14",
-        "title": "Minecraft",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/capsule_616x353.jpg",
-        "description": "Build anything imaginable in procedurally generated worlds, survive the night, explore vast caverns, and unleash your creativity without limits.",
-        "price": "26.95",
-        "originalPrice": "26.95",
-        "rating": 4.8
-      },
-      {
-        "id": "15",
-        "title": "Apex Legends",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
-        "description": "Squad up with powerful Legends in a fast-paced battle royale featuring innovative movement mechanics and a diverse cast of characters.",
-        "price": "0.00",
-        "originalPrice": "0.00",
-        "rating": 4.4
-      },
-      {
-        "id": "16",
-        "title": "The Witcher 3: Wild Hunt",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
-        "description": "Play as Geralt of Rivia, a monster hunter tracking down his adopted daughter while navigating war-ravaged open-world kingdoms.",
-        "price": "9.99",
-        "originalPrice": "39.99",
-        "rating": 4.9
-      },
-      {
-        "id": "17",
-        "title": "Far Cry 6",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
-        "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
-        "price": "14.99",
-        "originalPrice": "59.99",
-        "rating": 4
-      },
-      {
-        "id": "18",
-        "title": "Battlefield 2042",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/capsule_616x353.jpg",
-        "description": "Experience large-scale near-future warfare with 128-player matches, dynamic weather events, and game-changing specialist abilities.",
-        "price": "9.99",
-        "originalPrice": "59.99",
-        "rating": 3.7
-      },
-      {
-        "id": "19",
-        "title": "Resident Evil 4 Remake",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg",
-        "description": "The legendary survival horror classic reimagined — rescue the President's daughter from a sinister cult in a heart-stopping third-person thriller.",
-        "price": "39.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "20",
-        "title": "Need for Speed Unbound",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1846380/capsule_616x353.jpg",
-        "description": "Race through the stylized streets of Lakeshore City, pull off daring stunts, and outsmart the police in a high-stakes underground racing circuit.",
-        "price": "19.99",
-        "originalPrice": "59.99",
-        "rating": 4.1
-      },
-      {
-        "id": "21",
-        "title": "Starfield",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg",
-        "description": "Bethesda's space RPG lets you explore over 1,000 planets, build your own ship, and uncover the mysteries of humanity's final frontier.",
-        "price": "49.99",
-        "originalPrice": "69.99",
-        "rating": 4.2
-      },
-      {
-        "id": "22",
-        "title": "Diablo IV",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/capsule_616x353.jpg",
-        "description": "Descend into a dark gothic world teeming with demons. Plunder endless loot and battle Lilith across a vast shared open world.",
-        "price": "49.99",
-        "originalPrice": "69.99",
-        "rating": 4.4
-      },
-      {
-        "id": "23",
-        "title": "Baldur's Gate 3",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
-        "description": "A masterfully crafted RPG set in the Forgotten Realms — forge alliances, make world-altering choices, and survive the darkness with friends or alone.",
-        "price": "59.99",
-        "originalPrice": "59.99",
-        "rating": 5
-      },
-      {
-        "id": "24",
-        "title": "Hades",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_616x353.jpg",
-        "description": "Battle out of the Underworld in this rogue-like dungeon crawler, forging powerful boons from the Olympian gods with every thrilling run.",
-        "price": "14.99",
-        "originalPrice": "24.99",
-        "rating": 4.9
-      },
-      {
-        "id": "25",
-        "title": "Hollow Knight",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_616x353.jpg",
-        "description": "Explore a vast underground kingdom of insects in this beautifully hand-drawn action-adventure filled with challenging combat and deep lore.",
-        "price": "7.99",
-        "originalPrice": "14.99",
-        "rating": 4.9
-      },
-      {
-        "id": "26",
-        "title": "Sekiro: Shadows Die Twice",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg",
-        "description": "Master the shinobi sword in feudal Japan, facing terrifying bosses and uncovering a story of death, rebirth, and sacrifice.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "27",
-        "title": "Monster Hunter: World",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg",
-        "description": "Hunt breathtaking monsters across lush ecosystems, craft powerful gear from your kills, and take on legendary beasts with friends online.",
-        "price": "19.99",
-        "originalPrice": "39.99",
-        "rating": 4.7
-      },
-      {
-        "id": "28",
-        "title": "Dark Souls III",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg",
-        "description": "Face relentless undead horrors and colossal bosses in this punishing action RPG set in the crumbling kingdom of Lothric — death is only the beginning.",
-        "price": "19.99",
-        "originalPrice": "39.99",
-        "rating": 4.8
-      },
-      {
-        "id": "29",
-        "title": "Death Stranding",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
-        "description": "Reconnect a fractured America as Sam Porter Bridges, traversing hauntingly beautiful landscapes and delivering hope to isolated survivors.",
-        "price": "14.99",
-        "originalPrice": "39.99",
-        "rating": 4.3
-      },
-      {
-        "id": "30",
-        "title": "The Last of Us Part I",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_616x353.jpg",
-        "description": "A gripping post-apocalyptic journey of survival and love — Joel guides a young girl named Ellie across a brutal, infected United States.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "31",
-        "title": "Cyberpunk 2077: Phantom Liberty",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138330/capsule_616x353.jpg",
-        "description": "A high-stakes spy thriller DLC set in Dogtown, where V must navigate between corporate spies and rogue militias.",
-        "price": "29.99",
-        "originalPrice": "29.99",
-        "rating": 4.6
-      },
-      {
-        "id": "32",
-        "title": "Control",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/capsule_616x353.jpg",
-        "description": "Wield supernatural powers inside the brutalist Federal Bureau of Control as Jesse Faden fights a paranormal invasion threatening reality itself.",
-        "price": "9.99",
-        "originalPrice": "39.99",
-        "rating": 4.5
-      },
-      {
-        "id": "33",
-        "title": "Shadow of the Tomb Raider",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/capsule_616x353.jpg",
-        "description": "Lara Croft races to stop a Mayan apocalypse she triggered, navigating deadly jungles, ancient tombs, and a ruthless secret organization.",
-        "price": "9.99",
-        "originalPrice": "49.99",
-        "rating": 4.3
-      },
-      {
-        "id": "34",
-        "title": "Doom Eternal",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/capsule_616x353.jpg",
-        "description": "Rip and tear through relentless demon hordes across Heaven, Hell, and Earth in a blistering, heavy-metal-fueled first-person shooter.",
-        "price": "19.99",
-        "originalPrice": "39.99",
-        "rating": 4.7
-      },
-      {
-        "id": "35",
-        "title": "Returnal",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1649240/capsule_616x353.jpg",
-        "description": "Crash-land on an alien planet trapped in a time loop, mastering bullet-hell combat to uncover the terrifying truth behind the cycle.",
-        "price": "39.99",
-        "originalPrice": "59.99",
-        "rating": 4.5
-      },
-      {
-        "id": "36",
-        "title": "Horizon Forbidden West",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/capsule_616x353.jpg",
-        "description": "Aloy ventures into the dangerous Forbidden West, battling enormous machine creatures and uncovering a catastrophic threat to all life on Earth.",
-        "price": "49.99",
-        "originalPrice": "59.99",
-        "rating": 4.7
-      },
-      {
-        "id": "37",
-        "title": "Ghost of Tsushima",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/capsule_616x353.jpg",
-        "description": "Become the Ghost — a samurai who must forsake his code to protect Tsushima Island from a ruthless Mongol invasion in a stunning open world.",
-        "price": "49.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "38",
-        "title": "It Takes Two",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_616x353.jpg",
-        "description": "An award-winning co-op platformer where a couple on the brink of divorce must work together through a wild genre-bending adventure.",
-        "price": "19.99",
-        "originalPrice": "39.99",
-        "rating": 4.9
-      },
-      {
-        "id": "39",
-        "title": "Alan Wake 2",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2370860/capsule_616x353.jpg",
-        "description": "A psychological survival horror sequel where a troubled writer and an FBI agent are trapped in nightmarish worlds bleeding into reality.",
-        "price": "44.99",
-        "originalPrice": "49.99",
-        "rating": 4.7
-      },
-      {
-        "id": "40",
-        "title": "Lies of P",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/capsule_616x353.jpg",
-        "description": "A dark Soulslike inspired by Pinocchio — wield interchangeable weapons and navigate the grotesque Belle Époque city of Krat.",
-        "price": "34.99",
-        "originalPrice": "49.99",
-        "rating": 4.5
-      },
-      {
-        "id": "41",
-        "title": "Sea of Stars",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/capsule_616x353.jpg",
-        "description": "A love letter to classic JRPGs — two children of the solstice wield the power of sun and moon to defeat an evil alchemist's monstrous creations.",
-        "price": "24.99",
-        "originalPrice": "32.99",
-        "rating": 4.6
-      },
-      {
-        "id": "42",
-        "title": "Dave the Diver",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_616x353.jpg",
-        "description": "Dive into the Blue Hole by day and run a sushi restaurant by night — a charming mashup of adventure, RPG, and management sim.",
-        "price": "19.99",
-        "originalPrice": "19.99",
-        "rating": 4.7
-      },
-      {
-        "id": "43",
-        "title": "Street Fighter 6",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/capsule_616x353.jpg",
-        "description": "The iconic fighting franchise returns with a stunning Drive System, a rich single-player World Tour mode, and the deepest roster yet.",
-        "price": "39.99",
-        "originalPrice": "59.99",
-        "rating": 4.7
-      },
-      {
-        "id": "44",
-        "title": "Armored Core VI",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/capsule_616x353.jpg",
-        "description": "Pilot a fully customizable mech through intense high-speed combat missions across the resource-rich planet Rubicon 3.",
-        "price": "39.99",
-        "originalPrice": "59.99",
-        "rating": 4.6
-      },
-      {
-        "id": "45",
-        "title": "Hi-Fi Rush",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/capsule_616x353.jpg",
-        "description": "Rock out in this rhythm-action game where everything pulses to the beat — attack, dodge, and combo through a cel-shaded musical world.",
-        "price": "24.99",
-        "originalPrice": "29.99",
-        "rating": 4.8
-      },
-      {
-        "id": "46",
-        "title": "Forza Horizon 5",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg",
-        "description": "Race across breathtaking open-world Mexico with over 500 cars, dynamic seasons that reshape the world, and endless multiplayer fun.",
-        "price": "34.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "47",
-        "title": "Helldivers 2",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_616x353.jpg",
-        "description": "Drop onto hostile alien planets with up to four players, completing chaotic co-op missions to spread democracy across the galaxy.",
-        "price": "39.99",
-        "originalPrice": "39.99",
-        "rating": 4.7
-      },
-      {
-        "id": "48",
-        "title": "Palworld",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_616x353.jpg",
-        "description": "Capture mysterious creatures called Pals in a vast open world — put them to work, build bases, and fight to survive in this crafting sensation.",
-        "price": "29.99",
-        "originalPrice": "29.99",
-        "rating": 4.4
-      },
-      {
-        "id": "49",
-        "title": "Tekken 8",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/capsule_616x353.jpg",
-        "description": "The legendary fighting series reaches new heights with the new Heat System and the explosive conclusion of the Mishima saga.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.6
-      },
-      {
-        "id": "50",
-        "title": "Like a Dragon: Infinite Wealth",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2072450/capsule_616x353.jpg",
-        "description": "Ichiban Kasuga travels to Hawaii in this massive RPG sequel, teaming up with iconic series heroes in a heartfelt story of friendship and ambition.",
-        "price": "49.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "51",
-        "title": "Black Myth: Wukong",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/capsule_616x353.jpg",
-        "description": "An action RPG inspired by Journey to the West, featuring intense combat, stunning visuals, and the legendary Monkey King in a dark fantasy world.",
-        "price": "59.99",
-        "originalPrice": "59.99",
-        "rating": 4.6
-      }
-    ],
-    "trending": [
-      {
-        "id": "1",
-        "title": "Cyberpunk 2077",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
-        "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.2
-      },
-      {
-        "id": "2",
-        "title": "God of War",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
-        "description": "Kratos and his son Atreus journey through brutal Norse realms, facing gods and monsters in an epic tale of fatherhood and fate.",
-        "price": "39.99",
-        "originalPrice": "49.99",
-        "rating": 4.9
-      },
-      {
-        "id": "3",
-        "title": "Marvel's Spider-Man",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
-        "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
-        "price": "49.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "4",
-        "title": "GTA V",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
-        "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
-        "price": "14.99",
-        "originalPrice": "29.99",
-        "rating": 4.7
-      },
-      {
-        "id": "5",
-        "title": "Elden Ring",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
-        "description": "Explore the shattered Lands Between, forging your own legend across a breathtaking open world filled with ancient mystery and brutal combat.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.9
-      },
-      {
-        "id": "6",
-        "title": "Call of Duty: Modern Warfare III",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg",
-        "description": "Drop into fast-paced multiplayer battles and a gripping campaign as elite soldiers face a global threat like never before.",
-        "price": "49.99",
-        "originalPrice": "69.99",
-        "rating": 4.1
-      },
-      {
-        "id": "7",
-        "title": "EA Sports FC 24",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/capsule_616x353.jpg",
-        "description": "The world's most popular football simulation returns with HyperMotionV technology, lifelike player movement, and the biggest club roster ever.",
-        "price": "39.99",
-        "originalPrice": "69.99",
-        "rating": 4
-      },
-      {
-        "id": "8",
-        "title": "Assassin's Creed Valhalla",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
-        "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
-        "price": "19.99",
-        "originalPrice": "59.99",
-        "rating": 4.3
-      },
-      {
-        "id": "9",
-        "title": "Red Dead Redemption 2",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg",
-        "description": "Live the outlaw life as Arthur Morgan rides with the Van der Linde gang in the dying days of the American frontier.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.9
-      },
-      {
-        "id": "10",
-        "title": "Hogwarts Legacy",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/capsule_616x353.jpg",
-        "description": "Attend Hogwarts in the 1800s, master spells, uncover a hidden secret, and shape your destiny in an immersive open-world wizarding adventure.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.6
-      },
-      {
-        "id": "11",
-        "title": "Fortnite",
-        "image": "https://cdn2.unrealengine.com/the-future-of-fortnite-is-here-1920x1080-fd281a65c8ef.jpg",
-        "description": "Drop onto the island, gather resources, build structures, and be the last one standing in this ever-evolving battle royale phenomenon.",
-        "price": 0,
-        "originalPrice": 0,
-        "rating": 4.2
-      },
-      {
-        "id": "12",
-        "title": "PUBG: Battlegrounds",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
-        "description": "Parachute onto a massive map, scavenge for weapons and gear, and outlast 99 other players in the original battle royale experience.",
-        "price": "0.00",
-        "originalPrice": "29.99",
-        "rating": 4
-      },
-      {
-        "id": "13",
-        "title": "Valorant",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
-        "description": "A 5v5 tactical shooter where precise gunplay meets unique agent abilities — strategy, teamwork, and split-second decisions determine victory.",
-        "price": "0.00",
-        "originalPrice": "0.00",
-        "rating": 4.5
-      },
-      {
-        "id": "14",
-        "title": "Minecraft",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/capsule_616x353.jpg",
-        "description": "Build anything imaginable in procedurally generated worlds, survive the night, explore vast caverns, and unleash your creativity without limits.",
-        "price": "26.95",
-        "originalPrice": "26.95",
-        "rating": 4.8
-      },
-      {
-        "id": "15",
-        "title": "Apex Legends",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
-        "description": "Squad up with powerful Legends in a fast-paced battle royale featuring innovative movement mechanics and a diverse cast of characters.",
-        "price": "0.00",
-        "originalPrice": "0.00",
-        "rating": 4.4
-      },
-      {
-        "id": "16",
-        "title": "The Witcher 3: Wild Hunt",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
-        "description": "Play as Geralt of Rivia, a monster hunter tracking down his adopted daughter while navigating war-ravaged open-world kingdoms.",
-        "price": "9.99",
-        "originalPrice": "39.99",
-        "rating": 4.9
-      },
-      {
-        "id": "17",
-        "title": "Far Cry 6",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
-        "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
-        "price": "14.99",
-        "originalPrice": "59.99",
-        "rating": 4
-      },
-      {
-        "id": "18",
-        "title": "Battlefield 2042",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/capsule_616x353.jpg",
-        "description": "Experience large-scale near-future warfare with 128-player matches, dynamic weather events, and game-changing specialist abilities.",
-        "price": "9.99",
-        "originalPrice": "59.99",
-        "rating": 3.7
-      },
-      {
-        "id": "19",
-        "title": "Resident Evil 4 Remake",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg",
-        "description": "The legendary survival horror classic reimagined — rescue the President's daughter from a sinister cult in a heart-stopping third-person thriller.",
-        "price": "39.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "20",
-        "title": "Need for Speed Unbound",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1846380/capsule_616x353.jpg",
-        "description": "Race through the stylized streets of Lakeshore City, pull off daring stunts, and outsmart the police in a high-stakes underground racing circuit.",
-        "price": "19.99",
-        "originalPrice": "59.99",
-        "rating": 4.1
-      },
-      {
-        "id": "21",
-        "title": "Starfield",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg",
-        "description": "Bethesda's space RPG lets you explore over 1,000 planets, build your own ship, and uncover the mysteries of humanity's final frontier.",
-        "price": "49.99",
-        "originalPrice": "69.99",
-        "rating": 4.2
-      },
-      {
-        "id": "22",
-        "title": "Diablo IV",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/capsule_616x353.jpg",
-        "description": "Descend into a dark gothic world teeming with demons. Plunder endless loot and battle Lilith across a vast shared open world.",
-        "price": "49.99",
-        "originalPrice": "69.99",
-        "rating": 4.4
-      },
-      {
-        "id": "23",
-        "title": "Baldur's Gate 3",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
-        "description": "A masterfully crafted RPG set in the Forgotten Realms — forge alliances, make world-altering choices, and survive the darkness with friends or alone.",
-        "price": "59.99",
-        "originalPrice": "59.99",
-        "rating": 5
-      },
-      {
-        "id": "24",
-        "title": "Hades",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_616x353.jpg",
-        "description": "Battle out of the Underworld in this rogue-like dungeon crawler, forging powerful boons from the Olympian gods with every thrilling run.",
-        "price": "14.99",
-        "originalPrice": "24.99",
-        "rating": 4.9
-      },
-      {
-        "id": "25",
-        "title": "Hollow Knight",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_616x353.jpg",
-        "description": "Explore a vast underground kingdom of insects in this beautifully hand-drawn action-adventure filled with challenging combat and deep lore.",
-        "price": "7.99",
-        "originalPrice": "14.99",
-        "rating": 4.9
-      },
-      {
-        "id": "26",
-        "title": "Sekiro: Shadows Die Twice",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg",
-        "description": "Master the shinobi sword in feudal Japan, facing terrifying bosses and uncovering a story of death, rebirth, and sacrifice.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "27",
-        "title": "Monster Hunter: World",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg",
-        "description": "Hunt breathtaking monsters across lush ecosystems, craft powerful gear from your kills, and take on legendary beasts with friends online.",
-        "price": "19.99",
-        "originalPrice": "39.99",
-        "rating": 4.7
-      },
-      {
-        "id": "28",
-        "title": "Dark Souls III",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg",
-        "description": "Face relentless undead horrors and colossal bosses in this punishing action RPG set in the crumbling kingdom of Lothric — death is only the beginning.",
-        "price": "19.99",
-        "originalPrice": "39.99",
-        "rating": 4.8
-      },
-      {
-        "id": "29",
-        "title": "Death Stranding",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
-        "description": "Reconnect a fractured America as Sam Porter Bridges, traversing hauntingly beautiful landscapes and delivering hope to isolated survivors.",
-        "price": "14.99",
-        "originalPrice": "39.99",
-        "rating": 4.3
-      },
-      {
-        "id": "30",
-        "title": "The Last of Us Part I",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_616x353.jpg",
-        "description": "A gripping post-apocalyptic journey of survival and love — Joel guides a young girl named Ellie across a brutal, infected United States.",
-        "price": "44.99",
-        "originalPrice": "59.99",
-        "rating": 4.8
-      },
-      {
-        "id": "51",
-        "title": "Black Myth: Wukong",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/capsule_616x353.jpg",
-        "description": "An action RPG inspired by Journey to the West...",
-        "price": "59.99",
-        "originalPrice": "59.99",
-        "rating": 4.6
-      }
-    ],
-    "cart": [
-      {
-        "id": "QoYZOrYoZmk",
-        "title": "Cyberpunk 2077",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
-        "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
-        "price": "29.99",
-        "originalPrice": "59.99",
-        "rating": 4.2,
-        "gameId": "1"
-      }
-    ],
-    "library": [
-      {
-        "id": "IK2LDYIKOZ8",
-        "title": "GTA V",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
-        "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
-        "price": "14.99",
-        "originalPrice": "29.99",
-        "rating": 4.7,
-        "gameId": "4",
-        "purchasedAt": "2026-03-23T21:32:50.673Z"
-      },
-      {
-        "id": "gMVPtsFGcYs",
-        "title": "Far Cry 6",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
-        "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
-        "price": "14.99",
-        "originalPrice": "59.99",
-        "rating": 4,
-        "gameId": "17",
-        "purchasedAt": "2026-03-23T21:33:35.956Z"
-      },
-      {
-        "id": "rJyvxul05Cw",
-        "title": "Marvel's Spider-Man",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
-        "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
-        "price": "49.99",
-        "originalPrice": "59.99",
-        "rating": 4.8,
-        "gameId": "3",
-        "purchasedAt": "2026-03-23T21:38:04.951Z"
-      },
-      {
-        "id": "SLF0sMHI2jo",
-        "title": "Assassin's Creed Valhalla",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
-        "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
-        "price": "19.99",
-        "originalPrice": "59.99",
-        "rating": 4.3,
-        "gameId": "8",
-        "purchasedAt": "2026-03-25T03:25:36.091Z"
-      }
-    ]
-  }
+{
+  "allgames": [
+    {
+      "id": "1",
+      "title": "Cyberpunk 2077",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
+      "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.2
+    },
+    {
+      "id": "2",
+      "title": "God of War",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
+      "description": "Kratos and his son Atreus journey through brutal Norse realms, facing gods and monsters in an epic tale of fatherhood and fate.",
+      "price": "39.99",
+      "originalPrice": "49.99",
+      "rating": 4.9
+    },
+    {
+      "id": "3",
+      "title": "Marvel's Spider-Man",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
+      "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "title": "GTA V",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
+      "price": "14.99",
+      "originalPrice": "29.99",
+      "rating": 4.7
+    },
+    {
+      "id": "5",
+      "title": "Elden Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
+      "description": "Explore the shattered Lands Between, forging your own legend across a breathtaking open world filled with ancient mystery and brutal combat.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.9
+    },
+    {
+      "id": "6",
+      "title": "Call of Duty: Modern Warfare III",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg",
+      "description": "Drop into fast-paced multiplayer battles and a gripping campaign as elite soldiers face a global threat like never before.",
+      "price": "49.99",
+      "originalPrice": "69.99",
+      "rating": 4.1
+    },
+    {
+      "id": "7",
+      "title": "EA Sports FC 24",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/capsule_616x353.jpg",
+      "description": "The world's most popular football simulation returns with HyperMotionV technology, lifelike player movement, and the biggest club roster ever.",
+      "price": "39.99",
+      "originalPrice": "69.99",
+      "rating": 4
+    },
+    {
+      "id": "8",
+      "title": "Assassin's Creed Valhalla",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
+      "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
+      "price": "19.99",
+      "originalPrice": "59.99",
+      "rating": 4.3
+    },
+    {
+      "id": "9",
+      "title": "Red Dead Redemption 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg",
+      "description": "Live the outlaw life as Arthur Morgan rides with the Van der Linde gang in the dying days of the American frontier.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.9
+    },
+    {
+      "id": "10",
+      "title": "Hogwarts Legacy",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/capsule_616x353.jpg",
+      "description": "Attend Hogwarts in the 1800s, master spells, uncover a hidden secret, and shape your destiny in an immersive open-world wizarding adventure.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.6
+    },
+    {
+      "id": "11",
+      "title": "Fortnite",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1493710/capsule_616x353.jpg",
+      "description": "Drop onto the island, gather resources, build structures, and be the last one standing in this ever-evolving battle royale phenomenon.",
+      "price": "0.00",
+      "originalPrice": "0.00",
+      "rating": 4.2
+    },
+    {
+      "id": "12",
+      "title": "PUBG: Battlegrounds",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
+      "description": "Parachute onto a massive map, scavenge for weapons and gear, and outlast 99 other players in the original battle royale experience.",
+      "price": "0.00",
+      "originalPrice": "29.99",
+      "rating": 4
+    },
+    {
+      "id": "13",
+      "title": "Valorant",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
+      "description": "A 5v5 tactical shooter where precise gunplay meets unique agent abilities — strategy, teamwork, and split-second decisions determine victory.",
+      "price": "0.00",
+      "originalPrice": "0.00",
+      "rating": 4.5
+    },
+    {
+      "id": "14",
+      "title": "Minecraft",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/capsule_616x353.jpg",
+      "description": "Build anything imaginable in procedurally generated worlds, survive the night, explore vast caverns, and unleash your creativity without limits.",
+      "price": "26.95",
+      "originalPrice": "26.95",
+      "rating": 4.8
+    },
+    {
+      "id": "15",
+      "title": "Apex Legends",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_616x353.jpg",
+      "description": "Squad up with powerful Legends in a fast-paced battle royale featuring innovative movement mechanics and a diverse cast of characters.",
+      "price": "0.00",
+      "originalPrice": "0.00",
+      "rating": 4.4
+    },
+    {
+      "id": "16",
+      "title": "The Witcher 3: Wild Hunt",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
+      "description": "Play as Geralt of Rivia, a monster hunter tracking down his adopted daughter while navigating war-ravaged open-world kingdoms.",
+      "price": "9.99",
+      "originalPrice": "39.99",
+      "rating": 4.9
+    },
+    {
+      "id": "17",
+      "title": "Far Cry 6",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
+      "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
+      "price": "14.99",
+      "originalPrice": "59.99",
+      "rating": 4
+    },
+    {
+      "id": "18",
+      "title": "Battlefield 2042",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/capsule_616x353.jpg",
+      "description": "Experience large-scale near-future warfare with 128-player matches, dynamic weather events, and game-changing specialist abilities.",
+      "price": "9.99",
+      "originalPrice": "59.99",
+      "rating": 3.7
+    },
+    {
+      "id": "19",
+      "title": "Resident Evil 4 Remake",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg",
+      "description": "The legendary survival horror classic reimagined — rescue the President's daughter from a sinister cult in a heart-stopping third-person thriller.",
+      "price": "39.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "20",
+      "title": "Need for Speed Unbound",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1846380/capsule_616x353.jpg",
+      "description": "Race through the stylized streets of Lakeshore City, pull off daring stunts, and outsmart the police in a high-stakes underground racing circuit.",
+      "price": "19.99",
+      "originalPrice": "59.99",
+      "rating": 4.1
+    },
+    {
+      "id": "21",
+      "title": "Starfield",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg",
+      "description": "Bethesda's space RPG lets you explore over 1,000 planets, build your own ship, and uncover the mysteries of humanity's final frontier.",
+      "price": "49.99",
+      "originalPrice": "69.99",
+      "rating": 4.2
+    },
+    {
+      "id": "22",
+      "title": "Diablo IV",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/capsule_616x353.jpg",
+      "description": "Descend into a dark gothic world teeming with demons. Plunder endless loot and battle Lilith across a vast shared open world.",
+      "price": "49.99",
+      "originalPrice": "69.99",
+      "rating": 4.4
+    },
+    {
+      "id": "23",
+      "title": "Baldur's Gate 3",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
+      "description": "A masterfully crafted RPG set in the Forgotten Realms — forge alliances, make world-altering choices, and survive the darkness with friends or alone.",
+      "price": "59.99",
+      "originalPrice": "59.99",
+      "rating": 5
+    },
+    {
+      "id": "24",
+      "title": "Hades",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_616x353.jpg",
+      "description": "Battle out of the Underworld in this rogue-like dungeon crawler, forging powerful boons from the Olympian gods with every thrilling run.",
+      "price": "14.99",
+      "originalPrice": "24.99",
+      "rating": 4.9
+    },
+    {
+      "id": "25",
+      "title": "Hollow Knight",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_616x353.jpg",
+      "description": "Explore a vast underground kingdom of insects in this beautifully hand-drawn action-adventure filled with challenging combat and deep lore.",
+      "price": "7.99",
+      "originalPrice": "14.99",
+      "rating": 4.9
+    },
+    {
+      "id": "26",
+      "title": "Sekiro: Shadows Die Twice",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg",
+      "description": "Master the shinobi sword in feudal Japan, facing terrifying bosses and uncovering a story of death, rebirth, and sacrifice.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "27",
+      "title": "Monster Hunter: World",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg",
+      "description": "Hunt breathtaking monsters across lush ecosystems, craft powerful gear from your kills, and take on legendary beasts with friends online.",
+      "price": "19.99",
+      "originalPrice": "39.99",
+      "rating": 4.7
+    },
+    {
+      "id": "28",
+      "title": "Dark Souls III",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg",
+      "description": "Face relentless undead horrors and colossal bosses in this punishing action RPG set in the crumbling kingdom of Lothric — death is only the beginning.",
+      "price": "19.99",
+      "originalPrice": "39.99",
+      "rating": 4.8
+    },
+    {
+      "id": "29",
+      "title": "Death Stranding",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
+      "description": "Reconnect a fractured America as Sam Porter Bridges, traversing hauntingly beautiful landscapes and delivering hope to isolated survivors.",
+      "price": "14.99",
+      "originalPrice": "39.99",
+      "rating": 4.3
+    },
+    {
+      "id": "30",
+      "title": "The Last of Us Part I",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_616x353.jpg",
+      "description": "A gripping post-apocalyptic journey of survival and love — Joel guides a young girl named Ellie across a brutal, infected United States.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "31",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138330/capsule_616x353.jpg",
+      "description": "A high-stakes spy thriller DLC set in Dogtown, where V must navigate between corporate spies and rogue militias.",
+      "price": "29.99",
+      "originalPrice": "29.99",
+      "rating": 4.6
+    },
+    {
+      "id": "32",
+      "title": "Control",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/capsule_616x353.jpg",
+      "description": "Wield supernatural powers inside the brutalist Federal Bureau of Control as Jesse Faden fights a paranormal invasion threatening reality itself.",
+      "price": "9.99",
+      "originalPrice": "39.99",
+      "rating": 4.5
+    },
+    {
+      "id": "33",
+      "title": "Shadow of the Tomb Raider",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/capsule_616x353.jpg",
+      "description": "Lara Croft races to stop a Mayan apocalypse she triggered, navigating deadly jungles, ancient tombs, and a ruthless secret organization.",
+      "price": "9.99",
+      "originalPrice": "49.99",
+      "rating": 4.3
+    },
+    {
+      "id": "34",
+      "title": "Doom Eternal",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/capsule_616x353.jpg",
+      "description": "Rip and tear through relentless demon hordes across Heaven, Hell, and Earth in a blistering, heavy-metal-fueled first-person shooter.",
+      "price": "19.99",
+      "originalPrice": "39.99",
+      "rating": 4.7
+    },
+    {
+      "id": "35",
+      "title": "Returnal",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1649240/capsule_616x353.jpg",
+      "description": "Crash-land on an alien planet trapped in a time loop, mastering bullet-hell combat to uncover the terrifying truth behind the cycle.",
+      "price": "39.99",
+      "originalPrice": "59.99",
+      "rating": 4.5
+    },
+    {
+      "id": "36",
+      "title": "Horizon Forbidden West",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/capsule_616x353.jpg",
+      "description": "Aloy ventures into the dangerous Forbidden West, battling enormous machine creatures and uncovering a catastrophic threat to all life on Earth.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.7
+    },
+    {
+      "id": "37",
+      "title": "Ghost of Tsushima",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/capsule_616x353.jpg",
+      "description": "Become the Ghost — a samurai who must forsake his code to protect Tsushima Island from a ruthless Mongol invasion in a stunning open world.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "38",
+      "title": "It Takes Two",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_616x353.jpg",
+      "description": "An award-winning co-op platformer where a couple on the brink of divorce must work together through a wild genre-bending adventure.",
+      "price": "19.99",
+      "originalPrice": "39.99",
+      "rating": 4.9
+    },
+    {
+      "id": "39",
+      "title": "Alan Wake 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2370860/capsule_616x353.jpg",
+      "description": "A psychological survival horror sequel where a troubled writer and an FBI agent are trapped in nightmarish worlds bleeding into reality.",
+      "price": "44.99",
+      "originalPrice": "49.99",
+      "rating": 4.7
+    },
+    {
+      "id": "40",
+      "title": "Lies of P",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/capsule_616x353.jpg",
+      "description": "A dark Soulslike inspired by Pinocchio — wield interchangeable weapons and navigate the grotesque Belle Époque city of Krat.",
+      "price": "34.99",
+      "originalPrice": "49.99",
+      "rating": 4.5
+    },
+    {
+      "id": "41",
+      "title": "Sea of Stars",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/capsule_616x353.jpg",
+      "description": "A love letter to classic JRPGs — two children of the solstice wield the power of sun and moon to defeat an evil alchemist's monstrous creations.",
+      "price": "24.99",
+      "originalPrice": "32.99",
+      "rating": 4.6
+    },
+    {
+      "id": "42",
+      "title": "Dave the Diver",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_616x353.jpg",
+      "description": "Dive into the Blue Hole by day and run a sushi restaurant by night — a charming mashup of adventure, RPG, and management sim.",
+      "price": "19.99",
+      "originalPrice": "19.99",
+      "rating": 4.7
+    },
+    {
+      "id": "43",
+      "title": "Street Fighter 6",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/capsule_616x353.jpg",
+      "description": "The iconic fighting franchise returns with a stunning Drive System, a rich single-player World Tour mode, and the deepest roster yet.",
+      "price": "39.99",
+      "originalPrice": "59.99",
+      "rating": 4.7
+    },
+    {
+      "id": "44",
+      "title": "Armored Core VI",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/capsule_616x353.jpg",
+      "description": "Pilot a fully customizable mech through intense high-speed combat missions across the resource-rich planet Rubicon 3.",
+      "price": "39.99",
+      "originalPrice": "59.99",
+      "rating": 4.6
+    },
+    {
+      "id": "45",
+      "title": "Hi-Fi Rush",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/capsule_616x353.jpg",
+      "description": "Rock out in this rhythm-action game where everything pulses to the beat — attack, dodge, and combo through a cel-shaded musical world.",
+      "price": "24.99",
+      "originalPrice": "29.99",
+      "rating": 4.8
+    },
+    {
+      "id": "46",
+      "title": "Forza Horizon 5",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg",
+      "description": "Race across breathtaking open-world Mexico with over 500 cars, dynamic seasons that reshape the world, and endless multiplayer fun.",
+      "price": "34.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "47",
+      "title": "Helldivers 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_616x353.jpg",
+      "description": "Drop onto hostile alien planets with up to four players, completing chaotic co-op missions to spread democracy across the galaxy.",
+      "price": "39.99",
+      "originalPrice": "39.99",
+      "rating": 4.7
+    },
+    {
+      "id": "48",
+      "title": "Palworld",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/capsule_616x353.jpg",
+      "description": "Capture mysterious creatures called Pals in a vast open world — put them to work, build bases, and fight to survive in this crafting sensation.",
+      "price": "29.99",
+      "originalPrice": "29.99",
+      "rating": 4.4
+    },
+    {
+      "id": "49",
+      "title": "Tekken 8",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/capsule_616x353.jpg",
+      "description": "The legendary fighting series reaches new heights with the new Heat System and the explosive conclusion of the Mishima saga.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.6
+    },
+    {
+      "id": "50",
+      "title": "Like a Dragon: Infinite Wealth",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2072450/capsule_616x353.jpg",
+      "description": "Ichiban Kasuga travels to Hawaii in this massive RPG sequel, teaming up with iconic series heroes in a heartfelt story of friendship and ambition.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "51",
+      "title": "Black Myth: Wukong",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/capsule_616x353.jpg",
+      "description": "An action RPG inspired by Journey to the West, featuring intense combat, stunning visuals, and the legendary Monkey King in a dark fantasy world.",
+      "price": "59.99",
+      "originalPrice": "59.99",
+      "rating": 4.6
+    }
+  ],
+  "trending": [
+    {
+      "id": "1",
+      "title": "Cyberpunk 2077",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
+      "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.2
+    },
+    {
+      "id": "2",
+      "title": "God of War",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg",
+      "description": "Kratos and his son Atreus journey through brutal Norse realms, facing gods and monsters in an epic tale of fatherhood and fate.",
+      "price": "39.99",
+      "originalPrice": "49.99",
+      "rating": 4.9
+    },
+    {
+      "id": "3",
+      "title": "Marvel's Spider-Man",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
+      "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "title": "GTA V",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
+      "price": "14.99",
+      "originalPrice": "29.99",
+      "rating": 4.7
+    },
+    {
+      "id": "5",
+      "title": "Elden Ring",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/capsule_616x353.jpg",
+      "description": "Explore the shattered Lands Between, forging your own legend across a breathtaking open world filled with ancient mystery and brutal combat.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.9
+    },
+    {
+      "id": "6",
+      "title": "Call of Duty: Modern Warfare III",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg",
+      "description": "Drop into fast-paced multiplayer battles and a gripping campaign as elite soldiers face a global threat like never before.",
+      "price": "49.99",
+      "originalPrice": "69.99",
+      "rating": 4.1
+    },
+    {
+      "id": "7",
+      "title": "EA Sports FC 24",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/capsule_616x353.jpg",
+      "description": "The world's most popular football simulation returns with HyperMotionV technology, lifelike player movement, and the biggest club roster ever.",
+      "price": "39.99",
+      "originalPrice": "69.99",
+      "rating": 4
+    },
+    {
+      "id": "8",
+      "title": "Assassin's Creed Valhalla",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
+      "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
+      "price": "19.99",
+      "originalPrice": "59.99",
+      "rating": 4.3
+    },
+    {
+      "id": "9",
+      "title": "Red Dead Redemption 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_616x353.jpg",
+      "description": "Live the outlaw life as Arthur Morgan rides with the Van der Linde gang in the dying days of the American frontier.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.9
+    },
+    {
+      "id": "10",
+      "title": "Hogwarts Legacy",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/capsule_616x353.jpg",
+      "description": "Attend Hogwarts in the 1800s, master spells, uncover a hidden secret, and shape your destiny in an immersive open-world wizarding adventure.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.6
+    },
+    {
+      "id": "11",
+      "title": "Fortnite",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1493710/capsule_616x353.jpg",
+      "description": "Drop onto the island, gather resources, build structures, and be the last one standing in this ever-evolving battle royale phenomenon.",
+      "price": "0.00",
+      "originalPrice": "0.00",
+      "rating": 4.2
+    },
+    {
+      "id": "12",
+      "title": "PUBG: Battlegrounds",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_616x353.jpg",
+      "description": "Parachute onto a massive map, scavenge for weapons and gear, and outlast 99 other players in the original battle royale experience.",
+      "price": "0.00",
+      "originalPrice": "29.99",
+      "rating": 4
+    },
+    {
+      "id": "13",
+      "title": "Valorant",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
+      "description": "A 5v5 tactical shooter where precise gunplay meets unique agent abilities — strategy, teamwork, and split-second decisions determine victory.",
+      "price": "0.00",
+      "originalPrice": "0.00",
+      "rating": 4.5
+    },
+    {
+      "id": "14",
+      "title": "Minecraft",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1672970/capsule_616x353.jpg",
+      "description": "Build anything imaginable in procedurally generated worlds, survive the night, explore vast caverns, and unleash your creativity without limits.",
+      "price": "26.95",
+      "originalPrice": "26.95",
+      "rating": 4.8
+    },
+    {
+      "id": "15",
+      "title": "Apex Legends",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_616x353.jpg",
+      "description": "Squad up with powerful Legends in a fast-paced battle royale featuring innovative movement mechanics and a diverse cast of characters.",
+      "price": "0.00",
+      "originalPrice": "0.00",
+      "rating": 4.4
+    },
+    {
+      "id": "16",
+      "title": "The Witcher 3: Wild Hunt",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_616x353.jpg",
+      "description": "Play as Geralt of Rivia, a monster hunter tracking down his adopted daughter while navigating war-ravaged open-world kingdoms.",
+      "price": "9.99",
+      "originalPrice": "39.99",
+      "rating": 4.9
+    },
+    {
+      "id": "17",
+      "title": "Far Cry 6",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
+      "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
+      "price": "14.99",
+      "originalPrice": "59.99",
+      "rating": 4
+    },
+    {
+      "id": "18",
+      "title": "Battlefield 2042",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/capsule_616x353.jpg",
+      "description": "Experience large-scale near-future warfare with 128-player matches, dynamic weather events, and game-changing specialist abilities.",
+      "price": "9.99",
+      "originalPrice": "59.99",
+      "rating": 3.7
+    },
+    {
+      "id": "19",
+      "title": "Resident Evil 4 Remake",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/capsule_616x353.jpg",
+      "description": "The legendary survival horror classic reimagined — rescue the President's daughter from a sinister cult in a heart-stopping third-person thriller.",
+      "price": "39.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "20",
+      "title": "Need for Speed Unbound",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1846380/capsule_616x353.jpg",
+      "description": "Race through the stylized streets of Lakeshore City, pull off daring stunts, and outsmart the police in a high-stakes underground racing circuit.",
+      "price": "19.99",
+      "originalPrice": "59.99",
+      "rating": 4.1
+    },
+    {
+      "id": "21",
+      "title": "Starfield",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg",
+      "description": "Bethesda's space RPG lets you explore over 1,000 planets, build your own ship, and uncover the mysteries of humanity's final frontier.",
+      "price": "49.99",
+      "originalPrice": "69.99",
+      "rating": 4.2
+    },
+    {
+      "id": "22",
+      "title": "Diablo IV",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2344520/capsule_616x353.jpg",
+      "description": "Descend into a dark gothic world teeming with demons. Plunder endless loot and battle Lilith across a vast shared open world.",
+      "price": "49.99",
+      "originalPrice": "69.99",
+      "rating": 4.4
+    },
+    {
+      "id": "23",
+      "title": "Baldur's Gate 3",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
+      "description": "A masterfully crafted RPG set in the Forgotten Realms — forge alliances, make world-altering choices, and survive the darkness with friends or alone.",
+      "price": "59.99",
+      "originalPrice": "59.99",
+      "rating": 5
+    },
+    {
+      "id": "24",
+      "title": "Hades",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_616x353.jpg",
+      "description": "Battle out of the Underworld in this rogue-like dungeon crawler, forging powerful boons from the Olympian gods with every thrilling run.",
+      "price": "14.99",
+      "originalPrice": "24.99",
+      "rating": 4.9
+    },
+    {
+      "id": "25",
+      "title": "Hollow Knight",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_616x353.jpg",
+      "description": "Explore a vast underground kingdom of insects in this beautifully hand-drawn action-adventure filled with challenging combat and deep lore.",
+      "price": "7.99",
+      "originalPrice": "14.99",
+      "rating": 4.9
+    },
+    {
+      "id": "26",
+      "title": "Sekiro: Shadows Die Twice",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg",
+      "description": "Master the shinobi sword in feudal Japan, facing terrifying bosses and uncovering a story of death, rebirth, and sacrifice.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "27",
+      "title": "Monster Hunter: World",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_616x353.jpg",
+      "description": "Hunt breathtaking monsters across lush ecosystems, craft powerful gear from your kills, and take on legendary beasts with friends online.",
+      "price": "19.99",
+      "originalPrice": "39.99",
+      "rating": 4.7
+    },
+    {
+      "id": "28",
+      "title": "Dark Souls III",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/capsule_616x353.jpg",
+      "description": "Face relentless undead horrors and colossal bosses in this punishing action RPG set in the crumbling kingdom of Lothric — death is only the beginning.",
+      "price": "19.99",
+      "originalPrice": "39.99",
+      "rating": 4.8
+    },
+    {
+      "id": "29",
+      "title": "Death Stranding",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/capsule_616x353.jpg",
+      "description": "Reconnect a fractured America as Sam Porter Bridges, traversing hauntingly beautiful landscapes and delivering hope to isolated survivors.",
+      "price": "14.99",
+      "originalPrice": "39.99",
+      "rating": 4.3
+    },
+    {
+      "id": "30",
+      "title": "The Last of Us Part I",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/capsule_616x353.jpg",
+      "description": "A gripping post-apocalyptic journey of survival and love — Joel guides a young girl named Ellie across a brutal, infected United States.",
+      "price": "44.99",
+      "originalPrice": "59.99",
+      "rating": 4.8
+    },
+    {
+      "id": "51",
+      "title": "Black Myth: Wukong",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/capsule_616x353.jpg",
+      "description": "An action RPG inspired by Journey to the West, featuring intense combat, stunning visuals, and the legendary Monkey King in a dark fantasy world.",
+      "price": "59.99",
+      "originalPrice": "59.99",
+      "rating": 4.6
+    }
+  ],
+  "cart": [
+    {
+      "id": "QoYZOrYoZmk",
+      "title": "Cyberpunk 2077",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
+      "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.2,
+      "gameId": "1"
+    }
+  ],
+  "library": [
+    {
+      "id": "IK2LDYIKOZ8",
+      "title": "GTA V",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
+      "price": "14.99",
+      "originalPrice": "29.99",
+      "rating": 4.7,
+      "gameId": "4",
+      "purchasedAt": "2026-03-23T21:32:50.673Z"
+    },
+    {
+      "id": "gMVPtsFGcYs",
+      "title": "Far Cry 6",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
+      "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
+      "price": "14.99",
+      "originalPrice": "59.99",
+      "rating": 4,
+      "gameId": "17",
+      "purchasedAt": "2026-03-23T21:33:35.956Z"
+    },
+    {
+      "id": "rJyvxul05Cw",
+      "title": "Marvel's Spider-Man",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
+      "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.8,
+      "gameId": "3",
+      "purchasedAt": "2026-03-23T21:38:04.951Z"
+    },
+    {
+      "id": "SLF0sMHI2jo",
+      "title": "Assassin's Creed Valhalla",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
+      "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
+      "price": "19.99",
+      "originalPrice": "59.99",
+      "rating": 4.3,
+      "gameId": "8",
+      "purchasedAt": "2026-03-25T03:25:36.091Z"
+    }
+  ]
+}
