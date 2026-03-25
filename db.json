@@ -742,6 +742,61 @@
     }
   ],
   "cart": [
-    
+    {
+      "id": "QoYZOrYoZmk",
+      "title": "Cyberpunk 2077",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg",
+      "description": "Navigate the sprawling neon-lit streets of Night City as V, a mercenary outlaw chasing a one-of-a-kind implant that holds the key to immortality.",
+      "price": "29.99",
+      "originalPrice": "59.99",
+      "rating": 4.2,
+      "gameId": "1"
+    }
+  ],
+  "library": [
+    {
+      "id": "IK2LDYIKOZ8",
+      "title": "GTA V",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+      "description": "Three criminals risk everything in a series of daring heists across the sun-soaked city of Los Santos and its surrounding wilderness.",
+      "price": "14.99",
+      "originalPrice": "29.99",
+      "rating": 4.7,
+      "gameId": "4",
+      "purchasedAt": "2026-03-23T21:32:50.673Z"
+    },
+    {
+      "id": "gMVPtsFGcYs",
+      "title": "Far Cry 6",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_616x353.jpg",
+      "description": "Join the guerrilla revolution in tropical Yara and overthrow the ruthless dictator Anton Castillo in a sprawling open-world shooter.",
+      "price": "14.99",
+      "originalPrice": "59.99",
+      "rating": 4,
+      "gameId": "17",
+      "purchasedAt": "2026-03-23T21:33:35.956Z"
+    },
+    {
+      "id": "rJyvxul05Cw",
+      "title": "Marvel's Spider-Man",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_616x353.jpg",
+      "description": "Swing through a stunning open-world New York City as Peter Parker, balancing the life of a superhero with the struggles of everyday existence.",
+      "price": "49.99",
+      "originalPrice": "59.99",
+      "rating": 4.8,
+      "gameId": "3",
+      "purchasedAt": "2026-03-23T21:38:04.951Z"
+    },
+    {
+      "id": "SLF0sMHI2jo",
+      "title": "Assassin's Creed Valhalla",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/capsule_616x353.jpg",
+      "description": "Lead a Viking clan from Norway to England, raiding settlements and building alliances in a rich open world steeped in Norse mythology.",
+      "price": "19.99",
+      "originalPrice": "59.99",
+      "rating": 4.3,
+      "gameId": "8",
+      "purchasedAt": "2026-03-25T03:25:36.091Z"
+    }
   ]
 }
